@@ -38,5 +38,8 @@ button {
 }
 .button2 {background-color: rgb(94, 76,116);} 
 
+a {
+  text-decoration: none;
+}
 
 
